@@ -37,7 +37,7 @@ namespace MavlinkWrapper
             try
             {
                 Console.Write("Connecting...");
-                telemetryPort = new SerialPort("COM15", 57600);
+                telemetryPort = new SerialPort("COM15", 115200);
                 telemetryPort.Open();
                 
                 telemetryPort.DataReceived += TelemetryPort_DataReceived;
