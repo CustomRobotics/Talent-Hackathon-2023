@@ -83,14 +83,57 @@ Reunion Michoacan
 		Cámara para analisis por video
 
 
+Aquascan Notas 12 May 2023
+--------------------------
+Diseño de dispositivo de sensores colgantes
+Sensores: pH...
+Pagina que mando Gabriel/Carlos (sensor gandalla), ellos hacen los sensores a medida
+Buscar sensores que no necesiten limpieza
+Subir datos de sensores a servidor web para que puedan ir haciendo pruebas de la aplicacion
+Datos de geolocalizacion en mismo paquete de datos de los sensores
+CCC: info de area que puede cubrir el dron
+CCC: fotos de cabezal de sensado
 
 
+Reunion Consejo de Cuenca Lerma Chapala 15 Mayo 2023
+----------------------------------------------------
+Atienden donde nace rio lerma (edo mex, nevado de toluca), recorre 754 km hasta chapala, 5 estados
+Cuencas cerradas, patzcuaro, cuitzeo, sayula
+Del nevado a primera laguna son 50km (3000 km cuadrados)
+Rastros clandestinos mas daños hacen
+Rio santiago (ellos no se meten)
+37 indicadores
+Los más peligrosos son los materiales pesados
+Nosotros tenemos los primarios
+DMQ DQO (oxigenación) es lo más dificil que se necesita medir, es por medio de laboratorio, necesita de 24 a 48 horas
+Estacion frontera, cantidad de agua que entrega mx a mich y qro
+Ellos proponen una prueba piloto
+Ing inversa para detectar origen de contaminacion durante el trayecto del rio (detectar municipio origen)
+Con que calidad de agua empiezo y donde y como se va contaminando
+A ellos les interesa tener datos de cuanta agua y con que calidad se entrega entre puntos
+De 1 a 4 litros
+37 parametros que nos lo van a pasar
+Estan desarrollando zona piloto*
 
+Reunion Interna 21 Mayo 2023
+----------------------------
+Temas para reunion de mañana con Dr. Viridiana
+Sensado
+Muestreo
+NOM
+Despues de esta reunion dedicarnos a elaborar el proyecto e ir buscando lo de la propuesta de NOM
 
+Reunion Dra. Viridiana (Michoacan)
+----------------------------------
+Dictamenes tecnicos, ellos hacen esa revision en base a la NOM
+Inspeccion y medición de CONAGUA le daría un mayór uso
+Ellos solo se encargan de la definicion de descargas particulares
+Afinar detalles
 
-
-
-
+Ideas
+-----
+IA para que el dron haga vuelos en presas y detecte mantenimiento
+Dron para busqueda de personas perdias en barrancas, bosques, parques nacionales
 
 
 
