@@ -1,0 +1,29 @@
+Ideas para la aplicación
+------------------------
+
+- Control semi manual del dron 
+- Análisis inteligente de imágenes capturadas por el dron para clasificación por colorimetría
+- Uso agricola, definir zonas para dron fertilizante
+- Uso en minería, definir zonas de monitoreo
+- Geolocalización en mapa de zonas de interés (cualquier aplicativo)
+- Control y reportero para dron de vigilancia
+- Control y reportero para dron de rescate en zonas remotas para vehículo aéreo o rover subterráneo
+- Control y reportero para dron de monitoreo de calidad del aire
+- Control y reportero para dron de vigilancia de incendios en bosques
+- Control y reportero para dron de monitoreo de fauna salvaje
+- Control y reportero de dron de identificación de nidos de tortugas en playas
+- Control y reportero para dron submarino para contaminación (basura en general, plásticos etc) por imagen
+
+Monitoreo ambiental preciso y calidad del agua: El dron proporciona información precisa sobre la calidad del agua, incluyendo parámetros como la temperatura, el pH, la turbidez y la concentración de contaminantes. Esto permite evaluar la salud de los ecosistemas acuáticos y tomar medidas para preservar y mejorar la calidad del agua. Además, el dron captura imágenes y datos topográficos para crear mapas detallados de cuerpos de agua, ríos, lagos o áreas costeras para evaluar su contaminación.
+Optimización de recursos agrícolas: Permite la aplicación precisa de fertilizantes, maximizando los rendimientos y reduciendo el uso excesivo de recursos.
+Seguridad y monitoreo en minería: Evalúa la calidad del agua y garantiza el cumplimiento de regulaciones para minimizar los riesgos ambientales.
+Toma de decisiones informadas: Acceso a datos actualizados y geolocalizados para tomar decisiones estratégicas sobre la gestión del medio ambiente y la asignación de recursos.
+Eficiencia en vigilancia y rescate: Realiza operaciones de vigilancia y rescate de manera eficiente y segura en áreas remotas.
+Contribución a la conservación: Ayuda en la protección de la fauna, la detección de incendios y la identificación de problemas de contaminación.
+
+Monitoreo de datos en tiempo real de las muestras tomadas por el dron
+Monitoreo  de la calidad del agua usando IA, para determinar si hay alguna  zona  que este contaminada o no 
+Envío de imágenes tomadas por el dron via telegram o WhatsApp 
+Envío de los datos no solo al sitio web, si no también se enviaran a las plataformas de comunicación  como lo es WhatsApp  o telegram para tener una idea de lo que los sensores midieron 
+Control de emergencia para salvaguardar la salud de las personas en una playa, para así poder arrojar un chaleco salvavidas sin comprometer a la vida otra persona
+
